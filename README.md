@@ -1,5 +1,5 @@
 # barcode_detector
-requirements
+requirements\
 cv2\
 numpy\
 skimage
