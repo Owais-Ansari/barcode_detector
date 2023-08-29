@@ -16,7 +16,7 @@ python bar_code_detection.py  --img_path './barcode.jpg' --outdir './detection/'
 ```
 
 output image
-![alt text](https://github.com/Owais-Ansari/barcode_detector/blob/main/barcode_detection.png)
+![alt text](https://github.com/Owais-Ansari/barcode_detector/blob/main/barcode_detected.png)
 
 
 
